@@ -1,25 +1,5 @@
-# ⚡ EthStorage V1 Trusted Setup Ceremony – Quick Guide
+EthStorage V1 Trusted Setup Ceremony – step by step  Guide
 
-* Detailed guide to contribute to the ceremony which is conducted for our Groth16 zk-SNARK circuits
-* ETHstorage is L2 that lets you store data and use it for games, socials, AI. It makes sure no one can fake data or pretend to store
-* This ceremony is about making sure ETHstorage stays secure and decentralized
-
-### Ceremony will last from August 13 to 22
-
----
-
-## Requirements :
-- Local PC Ubuntu 22.04
-- or VPS : 2 vCPU, 4GB RAM, 30GB+ SSD recommended
-
-  * GitHub account : for authentication
-  * Github account age: ≥ 1 month  
-  * At least 1 public repository  
-  * Followings ≥ 5 accounts and atleast 1 or more followers
-
-**Purchase a vps from [Xorek](https://xorek.cloud/en)**
-**.Direct link to buy same specfication as mentioned [link](https://my.xorek.cloud/billmgr?startform=v2.vds.order.param)**
-  * this will save you from keeping your pc on continuously
 
 ## Follow The Guide :
 
