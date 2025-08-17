@@ -1,5 +1,13 @@
 EthStorage V1 Trusted Setup Ceremony – step by step  Guide
 
+Requirements
+
+GitHub account (for authentication)
+Account age: ≥ 1 month
+At least 1 public repository
+Follow ≥ 5 accounts & have ≥ 1 follower
+Allow tool to read/write GitHub Gists
+
 
 ## Follow The Guide :
 
